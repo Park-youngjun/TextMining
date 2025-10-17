@@ -15,4 +15,8 @@ for i in root:
 
 word = csv.writer("C:/Users/JUN/Desktop/FDR/file.csv",delimiter = ',')
 word.writerow(word_root)
+<<<<<<< HEAD
 //test1
+=======
+//test
+>>>>>>> origin/main
